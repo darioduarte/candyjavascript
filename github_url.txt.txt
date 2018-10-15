@@ -1,1 +1,2 @@
 https://github.com/darioduarte/candyjavascript
+https://github.com/darioduarte/candyjavascript.git
